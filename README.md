@@ -83,11 +83,15 @@ npx newman run "collection/Assignment SDET.postman_collection.json" -r cli,htmle
 
 ## Links
 
-- **Test Cases (Excel):** _link coming soon_
-- **API Documentation:** _link coming soon_
+- **Test Cases (Excel):** https://docs.google.com/spreadsheets/d/1unhwWxpg37IWPwkPhQWA3Ulq3b6WsRdZ/edit?usp=sharing&ouid=111147524979813115049&rtpof=true&sd=true
+- **API Documentation:** https://documenter.getpostman.com/view/54519405/2sBYHYuHrE
 
 ## Newman Report
 
-_Screenshot coming soon_
+<img width="892" height="890" alt="Screenshot 2026-11-07 214003" src="https://github.com/user-attachments/assets/ab186486-5f23-4983-a5d1-e4c9e628873e" />
 
-<!-- Add the screenshot like this: ![Newman Report](Reports/newman-report.png) -->
+
+
+<img width="895" height="572" alt="Screenshot 2026-11-07 214021" src="https://github.com/user-attachments/assets/c45825c6-cfe6-4937-b3ce-c499569c7e45" />
+
+
